@@ -9,4 +9,5 @@ setup(name='jackedCodeTimerPY',
       url='https://github.com/BebeSparkelSparkel/jackedCodeTimerPY',
       classifiers=['Development Status :: 2 - Pre-Alpha', 'Programming Language :: Python :: 3'],
       py_modules=["jackedCodeTimerPY"],
+      install_requires=['tabulate==0.7.5'],
      )
