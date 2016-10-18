@@ -1,0 +1,7 @@
+jackedCodeTimerPY.py
+setup.py
+jackedCodeTimerPY.egg-info/PKG-INFO
+jackedCodeTimerPY.egg-info/SOURCES.txt
+jackedCodeTimerPY.egg-info/dependency_links.txt
+jackedCodeTimerPY.egg-info/requires.txt
+jackedCodeTimerPY.egg-info/top_level.txt

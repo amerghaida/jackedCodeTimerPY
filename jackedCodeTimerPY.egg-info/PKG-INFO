@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: jackedCodeTimerPY
+Version: 0.0.0
+Summary: Simple but powerful code timer that can measure execution time of one line, functions, imports and gives statistics (min/max/mean/total time, number of executions).
+Home-page: https://github.com/BebeSparkelSparkel/jackedCodeTimerPY
+Author: William Rusnack
+Author-email: williamrusnack@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Programming Language :: Python :: 3
